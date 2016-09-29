@@ -4,8 +4,11 @@
 - [app-icons.sketch](app-icons.sketch)
 
 ## MW Icons & Logos
+> The composite logo exists since 2006.
+
 - [mw-icons-logos.sketch](mw-icons-logos.sketch)
 
+### Icon
 ![MW icon white](mw-icon-white.png)
 ![MW icon black](mw-icon-black.png)
 
