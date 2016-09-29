@@ -1,6 +1,6 @@
 # Design Resources
 
-## App icons for web
+## App icons for the web
 - [app-icons.sketch](app-icons.sketch)
 
 ## MW icons and logos
