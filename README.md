@@ -20,3 +20,6 @@ The logo and the icon’s exclusion zone is equal to half the height of the icon
 
 ### Logo
 ![MW icon black](mw-logo-red.png)
+
+## License
+Copyright (C) 2016 Malte Wassermann
