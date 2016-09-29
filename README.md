@@ -4,7 +4,7 @@
 - [app-icons.sketch](app-icons.sketch)
 
 ## MW Icons & Logos
-> This composite logo exists since 2006.
+> The composite logo exists since 2006.
 
 - [mw-icons-logos.sketch](mw-icons-logos.sketch)
 
