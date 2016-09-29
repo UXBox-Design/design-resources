@@ -14,4 +14,4 @@ The logo and the icon’s exclusion zone is equal to half the height of the icon
 ![MW exclusion zone](mw-icon-white-exclusion-zone.png)
 
 ## License
-Copyright (C) 2016 Malte Wassermann
+Copyright (c) 2016 Malte Wassermann, http://www.maltewassermann.com
