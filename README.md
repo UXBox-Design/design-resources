@@ -4,7 +4,7 @@
 - [app-icons.sketch](app-icons.sketch)
 
 ## MW Icons & Logos
-> Redesign in 2007
+> Redesign in 2006
 
 - [mw-icons-logos.sketch](mw-icons-logos.sketch)
 
@@ -15,8 +15,8 @@
 ### Exclusion Zone
 The logo and the icon’s exclusion zone is equal to half the height of the icon (marked as × in the diagram).
 
-![MW exclusion zone](mw-icon-exclusion-zone.png)
 ![MW exclusion zone](mw-icon-exclusion-zone-prop.png)
+![MW exclusion zone](mw-icon-exclusion-zone.png)
 
 ### Logo
 ![MW icon black](mw-logo-red.png)
