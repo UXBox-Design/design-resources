@@ -4,7 +4,7 @@
 - [app-icons.sketch](app-icons.sketch)
 
 ## MW Icons & Logos
-> Redesign in 2006
+> Exists since 2006
 
 - [mw-icons-logos.sketch](mw-icons-logos.sketch)
 
