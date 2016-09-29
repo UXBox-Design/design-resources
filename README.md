@@ -5,6 +5,7 @@
 
 ## MW Icons & Logos
 > Since 2007
+
 - [mw-icons-logos.sketch](mw-icons-logos.sketch)
 
 ### Icon
